@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar eureka-server/target/eureka-server-1.0-SNAPSHOT.jar
